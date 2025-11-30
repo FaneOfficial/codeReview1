@@ -12,3 +12,4 @@
 /Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.pdb
 /Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.genruntimeconfig.cache
 /Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/ref/RefactoringExample.dll
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.sourcelink.json
