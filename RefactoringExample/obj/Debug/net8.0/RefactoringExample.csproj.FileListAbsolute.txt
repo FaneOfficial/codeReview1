@@ -1,0 +1,14 @@
+/Users/kirilingd/Documents/refactoring/RefactoringExample/bin/Debug/net8.0/RefactoringExample
+/Users/kirilingd/Documents/refactoring/RefactoringExample/bin/Debug/net8.0/RefactoringExample.deps.json
+/Users/kirilingd/Documents/refactoring/RefactoringExample/bin/Debug/net8.0/RefactoringExample.runtimeconfig.json
+/Users/kirilingd/Documents/refactoring/RefactoringExample/bin/Debug/net8.0/RefactoringExample.dll
+/Users/kirilingd/Documents/refactoring/RefactoringExample/bin/Debug/net8.0/RefactoringExample.pdb
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.AssemblyInfoInputs.cache
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.AssemblyInfo.cs
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.csproj.CoreCompileInputs.cache
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.dll
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/refint/RefactoringExample.dll
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.pdb
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/RefactoringExample.genruntimeconfig.cache
+/Users/kirilingd/Documents/refactoring/RefactoringExample/obj/Debug/net8.0/ref/RefactoringExample.dll
